@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\source\\unrealgpt_revb\\httprequest.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\intermediate\\build\\win64\\unrealgpt_revbeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\intermediate\\build\\win64\\unrealeditor\\development\\unrealgpt_revb\\definitions.unrealgpt_revb.h",
+            "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\source\\unrealgpt_revb\\httprequest.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "e:\\programfiles\\epic games\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealgpt_revb\\uht\\httprequest.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
