@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\source\\unrealgpt_revb\\unrealgpt_revb.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\intermediate\\build\\win64\\unrealgpt_revbeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\intermediate\\build\\win64\\unrealeditor\\development\\unrealgpt_revb\\definitions.unrealgpt_revb.h",
+            "f:\\vertexschoolunrealprojects\\unrealgpt_revb\\source\\unrealgpt_revb\\unrealgpt_revb.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
