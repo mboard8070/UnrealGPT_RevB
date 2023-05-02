@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealGPT_RevB",
+			"Path": "F:\\VertexSchoolUnrealProjects\\UnrealGPT_RevB\\Source\\UnrealGPT_RevB.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealGPT_RevBEditor",
+			"Path": "F:\\VertexSchoolUnrealProjects\\UnrealGPT_RevB\\Source\\UnrealGPT_RevBEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
