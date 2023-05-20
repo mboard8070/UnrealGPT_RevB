@@ -1,5 +1,3 @@
-# UnrealGPT_RevBCertainly! Here's a description of the API wrapper you created in C++ to use the OpenAI API in Unreal Engine 5:
-
 Title: OpenAI API Wrapper for Unreal Engine 5 - C++ Implementation
 
 Description:
